@@ -36,10 +36,10 @@ int main() {
 For C++
 
 ```cpp
-#include <iostream>
+#include <print>
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    std::println("Hello, World!");
 }
 ```
 
